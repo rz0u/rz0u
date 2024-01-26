@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/cb/06/5e/cb065e221b62ede97f3d3e78f04b17ad.gif)](https://rzou.online)
+[![MasterHead](https://drive.google.com/file/d/1ILSmSzkq-EnEuws2cYELhE_M60SrHf9i/view?usp=sharing)](https://rzou.online)
 
 <h1 align="center">Hi 👋, I'm Rayhan Zou</h1>
 <h3 align="center">A passionate frontend developer from Jakarta, Indonesia</h3>
