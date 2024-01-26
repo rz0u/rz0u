@@ -1,10 +1,8 @@
-[![MasterHead](https://drive.google.com/file/d/1ILSmSzkq-EnEuws2cYELhE_M60SrHf9i/view?usp=sharing)](https://rzou.online)
-
-<h1 align="center">Hi 👋, I'm Rayhan Zou</h1>
-<h3 align="center">A passionate frontend developer from Jakarta, Indonesia</h3>
+[![MasterHead](header.png)](https://rzou.online)
 <img align="right" alt="coding-ascii" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rz0u&label=Profile%20views&color=0e75b6&style=flat" alt="rz0u" /> </p>
+<h3 align="left">A passionate frontend developer from Jakarta, Indonesia</h3>
 
 - 🔭 I’m currently working on **Personal E-Commerce**
 
