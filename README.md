@@ -1,5 +1,8 @@
+[![MasterHead](https://i.pinimg.com/originals/cb/06/5e/cb065e221b62ede97f3d3e78f04b17ad.gif)](https://rzou.online)
+
 <h1 align="center">Hi 👋, I'm Rayhan Zou</h1>
 <h3 align="center">A passionate frontend developer from Jakarta, Indonesia</h3>
+<img align="right" alt="coding-ascii" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rz0u&label=Profile%20views&color=0e75b6&style=flat" alt="rz0u" /> </p>
 
@@ -11,13 +14,13 @@
 
 - 👨‍💻 All of my projects are available at [rzou.online](rzou.online)
 
-- 💬 Ask me about **ReactJs, NodeJs**
+- 💬 Ask me about **ReactJs, NodeJs, PERN, and MERN**
 
 - 📫 How to reach me **rayhan.zou98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rayhan zou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayhan zou" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rayhan-zou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayhan zou" height="30" width="40" /></a>
 <a href="https://instagram.com/rayhanzou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayhanzou" height="30" width="40" /></a>
 </p>
 
